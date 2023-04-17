@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BookstoreApplication {
+public class TransformerApplication {
 
-    public static void main(String[] args) {SpringApplication.run(BookstoreApplication.class, args);
+    public static void main(String[] args) {SpringApplication.run(TransformerApplication.class, args);
     }
 
 }
